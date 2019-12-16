@@ -2,8 +2,8 @@
   "proizvodi": [
      {
       "id": "11",
-      "naziv": "UROS",
-      "opis": "UKICAAAAA",
+      "naziv": "TEST",
+      "opis": "TEST",
       "cena": "123",
       "kategorija": [
         {
