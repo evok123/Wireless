@@ -1,10 +1,10 @@
 {
   "proizvodi": [
-     {
+    {
       "id": "11",
       "naziv": "TEST",
       "opis": "TEST",
-      "cena": "123",
+      "cena": 123.0,
       "kategorija": [
         {
           "id": "2",
